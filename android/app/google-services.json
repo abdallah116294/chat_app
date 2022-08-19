@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519076380300",
+    "project_id": "frienz-chat",
+    "storage_bucket": "frienz-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519076380300:android:d1e55acf0869b882cf85a9",
+        "android_client_info": {
+          "package_name": "com.example.frienz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519076380300-5int7o31i7884iq3atii3nqedm7j4ijr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmTaNB6FNG5lFG2iGOOwwYvnQ7fJUa1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519076380300-5int7o31i7884iq3atii3nqedm7j4ijr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
